@@ -26,7 +26,7 @@ text-align:right;
 
 <div class="col-sm-12 bfooter">
 <div class="row">
-<div class="col-sm-4 bfooter_one">&copy; Pathak's Group of Institutes <sup>&reg;</sup></div>
+<div class="col-sm-4 bfooter_one">&copy; Pathak\'s Group of Institutes <sup>&reg;</sup></div>
 <div class="col-sm-4 fafa">
 <div class="row">
 <div class="col-sm-12">
